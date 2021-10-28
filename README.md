@@ -1,4 +1,4 @@
-- 👋 Hi, I’m saifshahriar, I.Sc. student of Nawab Siraj-Ud-Dowla Gov't College, Natore, Bangladesh.
+- 👋 Hi, I’m saifshahriar, an I.Sc. student of Nawab Siraj-Ud-Dowla Gov't College, Natore, Bangladesh.
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning JS and Data Science.
 - 💞️ I’m looking to collaborate on ...
