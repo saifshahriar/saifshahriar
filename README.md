@@ -34,7 +34,8 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 	- **Shell** (POSIX && Bash), 
 	- Python, 🐍 
 	- Go, 🐹
-	- Lua. 🌙
+	- Lua, 🌙
+	- Rust. 🦀
   - Others: 
   	- HTML, 
   	- XML, 
