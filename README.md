@@ -23,6 +23,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 - ㊗ Language Proficiency:
 
 | Language      | READ 📖 | WRITE ✍ | SPEAK 🗣 |
+|---------------|---------|---------|---------|
 | English       | ✓       | ✓       | ✓       |
 | Bengali       | ✓       | ✓       | ✓       |
 | Hindi && Urdu | ✓       | ✓       | ✓       |
