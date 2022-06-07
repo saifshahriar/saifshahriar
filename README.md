@@ -27,7 +27,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 | English       | ✓       | ✓       | ✓       |
 | Bengali       | ✓       | ✓       | ✓       |
 | Hindi && Urdu | ✓       | ✓       | ✓       |
-| Arabic        | ✓       | ✓       | ✓       |
+| Arabic        | ✓       | ✓       |         |
 
 - 👨‍💻 Programming Language:
 	- C,
