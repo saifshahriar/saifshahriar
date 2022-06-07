@@ -28,7 +28,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 | Bengali       | ✓       | ✓       | ✓       |
 | Hindi && Urdu | ✓       | ✓       | ✓       |
 | Arabic        | ✓       | ✓       | ✓       |
-      
+
 - 👨‍💻 Programming Language:
 	- C,
 	- **Shell** (POSIX && Bash), 
@@ -69,4 +69,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 -------------------------------------------------------------------------------
-__This document was written using emacs.__
+_This document was written using emacs._
