@@ -21,14 +21,17 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 - 🗾 Country:				Bangladesh 🇧🇩
 - ⚡ Skilled in:     Linux, cyber security, admin.
 - ㊗ Language Proficiency:
-      
-| Language | READ 📖 | WRITE ✍ | SPEAK 🗣 |
-|----------|------|-------|-------|
-| English  | ✓ | ✓ | ✓ |
-| Bengali  | ✓ | ✓ | ✓ |
-| Hindi && Urdu | ✓ | ✓ | ✓ |
-| Arabic  | ✓ | ✓ | |
 
+| Language      | READ 📖 | WRITE ✍ | SPEAK 🗣 |
+|---------------|---------|---------|---------|
+| English       | ✓       | ✓       | ✓       |
+|---------------|---------|---------|---------|
+| Bengali       | ✓       | ✓       | ✓       |
+|---------------|---------|---------|---------|
+| Hindi && Urdu | ✓       | ✓       | ✓       |
+|---------------|---------|---------|---------|
+| Arabic        | ✓       | ✓       | ✓       |
+      
 - 👨‍💻 Programming Language:
 	- C,
 	- **Shell** (POSIX && Bash), 
@@ -43,6 +46,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 	- Linux && BSD.
 - 📒 Editor/IDE:
 	- **Vim**.
+    - **Emacs**.
 - 📈 Projects:
 	- **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development])
 	- dwm (dynamic window manager)
@@ -66,3 +70,5 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 saifshahriar/saifshahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+This document was written using emacs.
