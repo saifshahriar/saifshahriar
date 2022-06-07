@@ -16,7 +16,7 @@
  # About Me
 Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of free && open source community. Believes in free as in freedom.
 - 🌐 Website:      https://saifshahriar.github.io/
-- 😺 GitHub:			https://github.com/saifshahriar
+- 😺 GitHub:		https://github.com/saifshahriar
 - 🦊 GitLab:			https://gitlab.com/saifshahriar
 - 🗾 Country:				Bangladesh 🇧🇩
 - ⚡ Skilled in:     Linux, cyber security, admin.
@@ -43,7 +43,8 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 	- Linux && BSD.
 - 📒 Editor/IDE:
 	- **Vim**.
-    - **Emacs**.
+	- **Emacs**.
+	- Visual Studio Code.
 - 📈 Projects:
 	- **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development])
 	- dwm (dynamic window manager)
