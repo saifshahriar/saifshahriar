@@ -40,6 +40,8 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
   	- HTML, 
   	- XML, 
   	- CSS.
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&theme=tokyonight)
 - 💻 OS:
 	- Linux && BSD.
 - 📒 Editor/IDE:
@@ -56,6 +58,14 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 		- Fork of suckless.org's st.
 	- dmenu (a run launcher)
 		- Fork of suckless.org's dmenu.
+	- isurpcon
+
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saifshahriar&repo=isurpcon&show_icons=true&theme=tokyonight)](https://github.com/saifshahriar/isurpcon)
+
+
+		
+
+
 
 
 <!---
@@ -69,6 +79,8 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 saifshahriar/saifshahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-------------------------------------------------------------------------------
+![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifshahriar&show_icons=true&theme=tokyonight)
 
 -------------------------------------------------------------------------------
 _This document was written using emacs._
