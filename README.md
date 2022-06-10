@@ -30,7 +30,8 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 | Arabic        | ✓       | ✓       |         |
 
 - 👨‍💻 Programming Language:
-	- C,
+<!---
+ 	- C,
 	- **Shell** (POSIX && Bash), 
 	- Python, 🐍 
 	- Go, 🐹
@@ -40,8 +41,9 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
   	- HTML, 
   	- XML, 
   	- CSS.
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&theme=tokyonight)
+---> 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css&theme=tokyonight)
 - 💻 OS:
 	- Linux && BSD.
 - 📒 Editor/IDE:
