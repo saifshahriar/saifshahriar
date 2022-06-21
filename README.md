@@ -70,12 +70,6 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 
 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saifshahriar&repo=isurpcon&show_icons=true&theme=tokyonight)](https://github.com/saifshahriar/isurpcon)
 
-
-		
-
-
-
-
 <!---
 - 👋 Hi, I’m saifshahriar, an I.Sc. student.
 - 👀 I’m interested in learning new skills.
