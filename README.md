@@ -26,6 +26,10 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 - 🦊 GitLab:			https://gitlab.com/saifshahriar
 - 🗾 Country:				Bangladesh 🇧🇩
 - ⚡ Skilled in:     Linux, cyber security, admin.
+
+	<a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/>
+	
+
 - ㊗ Language Proficiency:
 
 | Language      | READ 📖 | WRITE ✍ | SPEAK 🗣 |
@@ -50,13 +54,16 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 ---> 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css&theme=tokyonight)
-- 💻 OS:
-	- Linux && BSD.
-- 📒 Editor/IDE:
-	- **Vim**.
-	- **Emacs**.
-	- Visual Studio Code.
-- 📈 Projects:
+  
+# 💻 OS:
+  - Linux && BSD.
+	
+# 📒 Editor/IDE:
+  - **Vim**.
+  - **Emacs**.
+  - Visual Studio Code.
+	
+# 📈 Projects:
 	- **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development])
 	- dwm (dynamic window manager)
 		- A tiling window manager for Linux and BSD.
@@ -70,17 +77,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 
 	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saifshahriar&repo=isurpcon&show_icons=true&theme=tokyonight)](https://github.com/saifshahriar/isurpcon)
 
-<!---
-- 👋 Hi, I’m saifshahriar, an I.Sc. student.
-- 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning JS and Data Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-saifshahriar/saifshahriar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 -------------------------------------------------------------------------------
 
 <p align=center>
