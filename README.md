@@ -49,7 +49,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
       - CSS.
 ---> 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css,makefile,roff&theme=tokyonight)
 
 # ⚡ Skills
   <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/></a>
@@ -96,8 +96,11 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 # 📈 Projects:
   - **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development])
   - dwm (dynamic window manager)
-    - A tiling window manager for Linux and BSD.
+    - A tiling window manager for X.
     - Fork of suckless.org's dwm.
+    
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saifshahriar&repo=dwm-saif&show_icons=true&theme=tokyonight)](https://github.com/saifshahriar/dwm-saif)
+    
   - st (simple terminal)
     - A terminal emmulator for Linux and BSD.
     - Fork of suckless.org's st.
