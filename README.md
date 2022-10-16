@@ -94,7 +94,7 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
   <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/></a>
     
 # 📈 Projects:
-  - **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development])
+  <!-- - **ArchnixOS** (an <i>Arch Linux</i> based OS - [Under Development]) -->
   - dwm (dynamic window manager)
     - A tiling window manager for X.
     - Fork of suckless.org's dwm.
