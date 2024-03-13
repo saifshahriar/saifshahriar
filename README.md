@@ -3,7 +3,10 @@
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=saifshahriar)
 
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=4000&pause=100&color=7AA2F7&random=false&width=435&lines=Hello!;This+is+Saif!;Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
+<div align="center">
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=4000&pause=100&color=7AA2F7&center=true&vCenter=true&random=false&width=435&lines=Hello!;This+is+Saif!;Welcome+to+my+GitHub+profile..." alt="Typing SVG" /></a>
+</div>
+
 
 # About Me
 Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of free && open source community. Believes in free as in freedom.
