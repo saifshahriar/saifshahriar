@@ -4,8 +4,12 @@
 
 --->
 <div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&duration=4000&pause=100&color=7AA2F7&center=true&vCenter=true&random=false&width=435&lines=Hello!;This+is+Saif!;Welcome+to+my+GitHub+profile..." alt="Typing SVG" /></a>
+<!--      <a href="https://git.io/typing-svg"> -->
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=30&duration=4000&pause=100&color=7AA2F7&center=true&vCenter=true&random=false&width=700&lines=Hello!;This+is+Saif!;Welcome+to+my+GitHub+profile..." alt="Typing SVG" />
+<!--      </a> -->
 </div>
+
+
 
 
 # About Me
@@ -14,6 +18,10 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
 - 😺 GitHub:     https://github.com/saifshahriar
 - 🦊 GitLab:     https://gitlab.com/saifshahriar
 
+<h2 align="center">🐋 What I do on Github 🐋</h2>
+<p align="center">
+<img width="50%" src="https://github.com/user-attachments/assets/623de0b5-3054-47bc-8722-92ed587b1e77">
+<p align="center">
 
 
 ### 👨‍💻 Programming Language
@@ -30,7 +38,15 @@ Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of 
       - CSS.
 ---> 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css,makefile,roff&theme=tokyonight)
+<h2 align="center">🐬 Some useless stats 🐬</h2>
+
+<p align="center">
+  <img height="170" src="images/kokkoro_ok.png" alt="kokkoro_ok"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=javascript,css,makefile,roff&theme=tokyonight" alt="FollieHiyuki's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FollieHiyuki&show_icons=true&hide=stars&hide_border=true&hide_rank=true&bg_color=2e3440&icon_color=a3be8c&title_color=81a1c1&text_color=eceff4" alt="FollieHiyuki's GitHub stats"/>
+  <img height="170" src="images/lumine.png" alt="lumine"/>
+</p>
+  ![Top Langs]()
 
 # ⚡ Skills
   <a href="https://www.gnu.org/software/bash/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="bash" width="40" height="40"/></a>
