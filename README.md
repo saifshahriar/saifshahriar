@@ -10,19 +10,11 @@
 
 # About Me
 Hiyah, 👋 I am Saif, a student, a son, a husband. Supporter && contributor of free && open source community. Believes in free as in freedom.
-- 🌐 Website:      https://saifshahriar.github.io/
-- 😺 GitHub:		https://github.com/saifshahriar
-- 🦊 GitLab:			https://gitlab.com/saifshahriar
-- 🗾 Country:				Bangladesh 🇧🇩
+- 🌐 Website:    https://saifshahriar.github.io/
+- 😺 GitHub:     https://github.com/saifshahriar
+- 🦊 GitLab:     https://gitlab.com/saifshahriar
 
-### ㊗ Language Proficiency
 
-| Language      | READ 📖 | WRITE ✍ | SPEAK 🗣 |
-|---------------|---------|---------|------------|
-| English       | ✓       | ✓       | ✓          |
-| Bengali       | ✓       | ✓       | ✓          |
-| Hindi && Urdu | ✓       | ✓       | ✓          |
-| Arabic        | ✓       | ✓       |            |   
 
 ### 👨‍💻 Programming Language
 <!---
