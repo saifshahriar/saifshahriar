@@ -8,9 +8,9 @@
 
 <p align="center">
   <img height="170" src="images/lumine.png" alt="lumine"/>
-  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=makefile,roff&theme=tokyonight&timestamp=202503152" alt="Saif Shahriar's GitHub stats"/>
+  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api/top-langs/?username=saifshahriar&langs_count=20&layout=compact&exclude_repo=saifshahriar.github.io&hide=makefile,roff&theme=tokyonight&timestamp=2025-03-17" alt="Saif Shahriar's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api?username=saifshahriar&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=202503152" />
+  <img src="https://github-readme-stats-saif-shahriars-projects.vercel.app/api?username=saifshahriar&include_all_commits=true&show_icons=true&hide_rank=true&theme=tokyonight&timestamp=2025-03-17" />
   <img height="170" src="images/kokkoro_ok.png" alt="kokkoro_ok"/>
 </p>
 <br/>
