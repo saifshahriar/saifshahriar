@@ -20,4 +20,14 @@
   <img width="520" src="images/banner.gif" alt="sighs"/>
 </p>
 
+
+<!--
+<br />
+
+<h2 align="center">🙀 Useless Projects 🙀</h2>
+<p align="center">
+<img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=dwm-saif" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=dotfiles" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=email-validator-api" /> <img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=nvim-lsi" /><img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=quran-cli" /><img src="https://github-stats-extended-frontend-three-omega.vercel.app/api/pin?username=saifshahriar&theme=tokyonight&repo=pong2d" />
+</p>
+-->
+
 <!-- Ripped off from @folliehiyuki -->
